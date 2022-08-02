@@ -94,15 +94,18 @@ This project is licensed under the Apache License - see the [LICENSE]() file for
 If you use this work or code, please kindly cite the following paper:
 
 ```
-@inproceedings{xu-etal-2022-git,
-    title = "RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction",
-    author = "Yuan Liang and
-      Zhuoxuan Jiang and
-      Di Yin and
-      Bo Ren",
-    booktitle = "",
+@inproceedings{liang-etal-2022-raat,
+    title = "{RAAT}: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction",
+    author = "Liang, Yuan  and
+      Jiang, Zhuoxuan  and
+      Yin, Di  and
+      Ren, Bo",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
     year = "2022",
-    publisher = "",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    pages = "4985--4997",
 }
 ```
 
