@@ -1,6 +1,6 @@
 # ReDEE
 
-Source code for the paper ["RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction"](link) , in NAACL 2022.
+Source code for the paper ["RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction"](https://arxiv.org/abs/2206.03377) , in NAACL 2022.
 
 ### Overview
 
