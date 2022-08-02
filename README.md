@@ -43,7 +43,7 @@ RAAT/
 ├─ run_dee_task.py: the main entry
 ├─ requirements.txt
 ├─ Exps/: experiment outputs
-├─ License_RAAT
+├─ LICENSE
 ```
 
 ### Environment
